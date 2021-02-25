@@ -1,0 +1,38 @@
+<resources>
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="list_user">
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <!-- styles.xml -->
+    <style name="click_me">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">#FFE1E1</item>
+
+    </style>
+
+    <style name="text">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+
+</resources>
